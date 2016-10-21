@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rp:ObjectSet xmlns:rp="http://www.soasta.com/services/repository">
+  <Object type="sla" schemaVersion="9467" VCSUid="281c206ad7b4cb79c45cc7ea739e1d24" name="ProductPage" path="/SLAs">
+    <Body>
+      <SLA appliesTo="collection" xmlns="http://www.soasta.com/services/repository">
+        <SLARule type="AvgDuration">
+          <AvgDuration>
+            <YellowThreshold>500</YellowThreshold>
+            <RedThreshold>1000</RedThreshold>
+          </AvgDuration>
+        </SLARule>
+      </SLA>
+    </Body>
+    <BinaryData />
+  </Object>
+</rp:ObjectSet>

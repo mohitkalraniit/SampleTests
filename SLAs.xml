@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rp:ObjectSet xmlns:rp="http://www.soasta.com/services/repository">
+  <Object type="folder" schemaVersion="9467" VCSUid="8be0690380752dc02248a4cb29428695" name="SLAs" path="/">
+    <BinaryData />
+  </Object>
+</rp:ObjectSet>
